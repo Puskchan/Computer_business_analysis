@@ -2,7 +2,7 @@
 
 # Sales Insights Dashboard
 
-The **Sales Insights Dashboard** is a powerful tool designed to give a 360-degree view of your sales performance. With data-driven insights, this dashboard helps businesses understand revenue streams, identify high-value customers, monitor sales trends, and optimize strategies to increase profitability.
+The **Sales Insights Dashboard** is designed to give a 360-degree view of the sales performance of a Computer Hardware Company. With data-driven insights, this dashboard will help the businesse understand revenue streams, identify high-value customers, monitor sales trends, and optimize strategies to increase profitability.
 
 ![image](https://github.com/user-attachments/assets/d6dc12ca-bb77-443c-903a-726789a3a4ba)
 
